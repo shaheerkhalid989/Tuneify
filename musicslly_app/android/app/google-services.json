@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "752845804402",
+    "project_id": "flutter-tuneify-app",
+    "storage_bucket": "flutter-tuneify-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752845804402:android:cd62c61b6a28762dec83eb",
+        "android_client_info": {
+          "package_name": "com.example.tuneify_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIse_uEY3f4QvniAfVYNAVNFkUFawmYdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
